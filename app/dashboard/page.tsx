@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './header/page'
 import SideNav from './sidebar/page'
 
-const page = () => {
+const Dashboard = () => {
   return (
     <div>
         <Header/>
@@ -13,4 +13,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Dashboard
